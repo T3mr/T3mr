@@ -15,18 +15,26 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: T3mr
+          github_user_name: mishmanners
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
 
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit files
+        run: |
+          git add dist/*
+          git commit -m "Generate snake gif and svg" || echo "No changes to commit"
+
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+        run: git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
