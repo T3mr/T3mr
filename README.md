@@ -1,7 +1,7 @@
 ![567890](https://github.com/T3mr/T3mr/assets/175037316/3cd53fe4-614c-4773-a9b8-3b139d4cbc52)
 
 # 💫 About Me:
-Hello, I'm Temur Can Bulut<br><br>I graduated from high school this year. I have been very curious about technology since my childhood. Thanks to the projects and studies I participated in during the primary education process, I have developed in the fields of Robotics and Frontend Web with my own means. By participating in Tübitak and Teknofest competitions in both fields, I won district achievements. <br><br>Recently, thanks to the rapidly developing technology, I have become interested in the field of cyber security. I have been oriented for a long time, especially in the fields of Web Penetration Tests and Cyber Threat Intelligence. In general, I focused on Python software language, which plays an important role in Web Programming and Security.<br><br>In the field of robotics; I have mastered the use of the majority of Arduino technologies. In the field of Frontend Web; I have mastered HTML/CSS/BOOTSTRAP, in the field of Cyber Security; I have mastered Web Based Threat Intelligence and Penetration tests and I am actively developing myself in these areas. 
+I work in Web Technologies and Security. I focus on web development and security testing. I have experience with software and hardware technologies through TÜBİTAK and Teknofest projects.
 
 
 ## 🌐 Socials:
