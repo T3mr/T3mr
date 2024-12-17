@@ -1,4 +1,4 @@
-![567890](https://github.com/T3mr/T3mr/assets/175037316/3cd53fe4-614c-4773-a9b8-3b139d4cbc52)
+![4](https://github.com/user-attachments/assets/8a9e5995-5b5e-4867-ab35-a0c8dfb7af21)
 
 # 💫 About Me:
 I work in Web Technologies and Security. I focus on web development and security testing. I have experience with software and hardware technologies through TÜBİTAK and Teknofest projects.
